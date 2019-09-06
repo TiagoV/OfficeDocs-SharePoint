@@ -32,7 +32,7 @@ Advantages of Azure AD B2B include:
 - SharePoint and OneDrive sharing is subject to the Azure AD organizational relationships settings, such as **Members can invite** and **Guests can invite**.
 
 This preview is not supported in the following Office 365 services:
-- Office 365 Germany
+- [Office 365 Germany](https://docs.microsoft.com/en-us/office365/servicedescriptions/office-365-platform-service-description/office-365-germany)
 - Office 365 operated by 21Vianet
 - GCC High and DoD
 
