@@ -33,8 +33,8 @@ Advantages of Azure AD B2B include:
 
 This preview is not supported in the following Office 365 services:
 - Office 365 Germany
-- Office 365 operated by 21Vianet
-- GCC High and DoD
+- [Office 365 operated by 21Vianet](https://docs.microsoft.com/en-us/office365/admin/services-in-china/services-in-china?view=o365-21vianet)
+- [GCC High and DoD](https://docs.microsoft.com/en-us/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/gcc-high-and-dod)
 
 ## Opting in to the preview
 
